@@ -4,6 +4,7 @@ public class Circulo {
 	 private float x, y;
 	 private float radio;
 	 /**
+	  * Prueba para hacer el apartado del commit 
 	  * Metodo constructor de Circulo
 	  * @param cX Float de coordenada del eje x del circulo
 	  * @param cY Float de coordenada del eje y del circulo
